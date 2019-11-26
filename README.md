@@ -4,9 +4,6 @@
 ### 주제 하나씩 정해서 스터디 진행
 #### 자바스크립트를 깨우치다 (책 읽기)
 
-### git
-git clone https://github.com/hanseulgi/javascript.git
-
 ### 진행
 - 인원 : 한슬기, 김소연, 민승기 
 - 시간 : pm 19:30 ~ 21:30
